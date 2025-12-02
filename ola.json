@@ -1,0 +1,494 @@
+[
+  {
+    "cluster": 1,
+    "latitude": 35.71,
+    "name": "Abby",
+    "longitude": 78.61
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.913,
+    "name": "Crystal",
+    "longitude": 79.056
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.994,
+    "name": "Drew Crocker",
+    "longitude": 78.899
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.792,
+    "name": "Joey",
+    "longitude": 78.781
+  },
+  {
+    "cluster": 1,
+    "latitude": 36.0,
+    "name": "Johnson",
+    "longitude": 78.56
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.73,
+    "name": "Kacey",
+    "longitude": 78.85
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.994,
+    "name": "Lexii",
+    "longitude": 78.899
+  },
+  {
+    "cluster": 1,
+    "latitude": 35.91,
+    "name": "Owen",
+    "longitude": 79.056
+  },
+  {
+    "cluster": 1,
+    "latitude": 36.092,
+    "name": "Navya",
+    "longitude": 79.889
+  },
+  {
+    "cluster": 1,
+    "latitude": 36.09,
+    "name": "sandith",
+    "longitude": 79.89
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.663,
+    "name": "Abdou Diallo",
+    "longitude": -73.961
+  },
+  {
+    "cluster": 2,
+    "latitude": 41.47,
+    "name": "Ah Crazy",
+    "longitude": -73.49
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.792,
+    "name": "Amanda",
+    "longitude": -73.64
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.412,
+    "name": "Anika Dugal",
+    "longitude": -74.308
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.173,
+    "name": "Anthony",
+    "longitude": -74.59
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.298,
+    "name": "Ben",
+    "longitude": -74.619
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.298,
+    "name": "Ben",
+    "longitude": -74.619
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.85,
+    "name": "Blake",
+    "longitude": -73.48
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.706,
+    "name": "Caroline",
+    "longitude": -73.664
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.71,
+    "name": "Chaych",
+    "longitude": -74.0
+  },
+  {
+    "cluster": 2,
+    "latitude": 41.089,
+    "name": "Cyril",
+    "longitude": -74.144
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.713,
+    "name": "David",
+    "longitude": -74.006
+  },
+  {
+    "cluster": 2,
+    "latitude": 41.0,
+    "name": "David",
+    "longitude": -73.79
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.718,
+    "name": "Ellen",
+    "longitude": -74.014
+  },
+  {
+    "cluster": 2,
+    "latitude": 39.99,
+    "name": "Erica",
+    "longitude": -74.94
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.725,
+    "name": "Gavin",
+    "longitude": -73.636
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.713,
+    "name": "George",
+    "longitude": -74.006
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.963,
+    "name": "Giacomo P",
+    "longitude": -74.133
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.872,
+    "name": "Hannah",
+    "longitude": -73.457
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.765,
+    "name": "Izz",
+    "longitude": -73.831
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.765,
+    "name": "Janna",
+    "longitude": -73.831
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.731,
+    "name": "Jonah",
+    "longitude": -73.935
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.8,
+    "name": "Jules",
+    "longitude": -73.741
+  },
+  {
+    "cluster": 2,
+    "latitude": 41.142,
+    "name": "Lucia",
+    "longitude": -73.358
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.638,
+    "name": "Max",
+    "longitude": -74.451
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.73,
+    "name": "Riley",
+    "longitude": -73.935
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.903,
+    "name": "Riya",
+    "longitude": -73.134
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.78,
+    "name": "Sivan",
+    "longitude": -73.98
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.731,
+    "name": "Violet",
+    "longitude": -73.935
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.241,
+    "name": "John",
+    "longitude": -75.284
+  },
+  {
+    "cluster": 2,
+    "latitude": 40.09,
+    "name": "Zane",
+    "longitude": -75.27
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.691,
+    "name": "Abhinav Meduri",
+    "longitude": -78.794
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.792,
+    "name": "Alana",
+    "longitude": -78.781
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.99,
+    "name": "Andy Li",
+    "longitude": -78.9
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.69,
+    "name": "Arnav Meduri",
+    "longitude": -78.79
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.885,
+    "name": "Arnav",
+    "longitude": -78.631
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.073,
+    "name": "Dishita",
+    "longitude": -79.792
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.01,
+    "name": "Elina",
+    "longitude": -78.922
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.001,
+    "name": "Ethan",
+    "longitude": -78.938
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.008,
+    "name": "Ethan",
+    "longitude": -78.922
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.006,
+    "name": "Ezequiel",
+    "longitude": -78.92
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.802,
+    "name": "Jad",
+    "longitude": -78.905
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.792,
+    "name": "Joey",
+    "longitude": -78.781
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.994,
+    "name": "John",
+    "longitude": -78.899
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.792,
+    "name": "Krish Yadav",
+    "longitude": -78.781
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.792,
+    "name": "Leonard Yang",
+    "longitude": -78.781
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.79,
+    "name": "Lisa",
+    "longitude": -78.78
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.831,
+    "name": "Poorvaja",
+    "longitude": -78.889
+  },
+  {
+    "cluster": 3,
+    "latitude": 35.961,
+    "name": "StephenC",
+    "longitude": -79.029
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.019,
+    "name": "Tony",
+    "longitude": -78.918
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.008,
+    "name": "Val Kasabrukhau",
+    "longitude": -78.922
+  },
+  {
+    "cluster": 3,
+    "latitude": 36.15,
+    "name": "mayah",
+    "longitude": -79.14
+  },
+  {
+    "cluster": 4,
+    "latitude": 76.87,
+    "name": "Andy",
+    "longitude": -21.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Kelvin",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Lamees Subeir",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Linh",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Michael Zhou",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Sharad",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Shravan",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Sven",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 4,
+    "latitude": 77.87,
+    "name": "Tony",
+    "longitude": -20.975
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.85,
+    "name": "Cierra",
+    "longitude": -77.3
+  },
+  {
+    "cluster": 5,
+    "latitude": 39.013,
+    "name": "Connor",
+    "longitude": -77.538
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.985,
+    "name": "Daniel",
+    "longitude": -77.095
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.88,
+    "name": "David",
+    "longitude": -77.3
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.93,
+    "name": "Max",
+    "longitude": -77.18
+  },
+  {
+    "cluster": 5,
+    "latitude": 39.199,
+    "name": "Nathan",
+    "longitude": -76.909
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.929,
+    "name": "Nikki",
+    "longitude": -77.229
+  },
+  {
+    "cluster": 5,
+    "latitude": 39.412,
+    "name": "Priyanka",
+    "longitude": -77.425
+  },
+  {
+    "cluster": 5,
+    "latitude": 39.086,
+    "name": "Rhea",
+    "longitude": -77.161
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.901,
+    "name": "Shreyas",
+    "longitude": -77.265
+  },
+  {
+    "cluster": 5,
+    "latitude": 38.985,
+    "name": "Will",
+    "longitude": -77.095
+  }
+]
